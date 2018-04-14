@@ -1,0 +1,6 @@
+Angular 2 
+
+- TypeScript: 
+- Aplicação orientada a Componente (componentes HTML)
+- Componente -> Serviço(lógica de negócio) -> Back-end
+- Router: Responsável pela navegação (SPA - Single Page Application)
